@@ -7,3 +7,6 @@ I currently work as both a software engineering intern at ScootPad, where I help
 I also work as an Academic Advisor for the BYU Computer Science where I help students create schedules and provide a valuable space for students to feel welcome in the computer science program. I’ve worked there for 8 months now.
 # Projects
 I have plenty of stuff in the works, but here’s a peak at some of the work I’ve been able to do in the BYU Computer Science Animation and Games Program.
+![Lego image](Lego_Image.jpg)
+![Bug image](Bug_Image.jpg)
+![Building image](Building_Image.jpg)
